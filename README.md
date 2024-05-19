@@ -1,1 +1,1 @@
-# anima-o-js
+# cores-js
