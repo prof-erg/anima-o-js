@@ -12,5 +12,5 @@ function setup() {
     fill(color(random(0,255)));
     strokeWeight(4);
     //border-width: 2px 10px 4px 20px; border-style: solid;
-   text("2MY",120,300);
+   text("Paciência",1,300);
   }
